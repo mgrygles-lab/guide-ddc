@@ -1,0 +1,21 @@
+.DS_Store
+*.iml
+target/
+.idea/
+.settings
+.project
+.classpath
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# vim & emacs
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+Session.vim
+.netrwhist
+*~
+tags
